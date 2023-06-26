@@ -1,17 +1,16 @@
 # portfolio
 # Jianan Dingqian
 
-**Location:** Queens, NY  
 **Email:** jd3754@tc.columbia.edu  
 **Phone:** 347-393-1421  
 **LinkedIn:** *www.linkedin.com/in/jianan-dingqian*  
-**GitHub:** *https://github.com/Jen971030/portfolio*
+**GitHub:** *https://github.com/Jen971030*
 
 ---
 
 ## About Me
 
-Hello! My name is Jianan Dingqian, a recent Master of Science graduate in Learning Analytics from Teachers College, Columbia University. My expertise lies in data analysis and firmware engineering, where I've gained practical experience during my internships in both China and the United States. Fluent in English and Mandarin, I bring my strong multicultural understanding to team collaborations and data-driven solutions.
+Hello! My name is Jianan Dingqian, a recent Master of Science graduate in Learning Analytics from Teachers College, Columbia University. My expertise lies in educational data analysis and firmware engineering, where I've gained practical experience during my internships in both China and the United States. Fluent in English and Mandarin, I bring my strong multicultural understanding to team collaborations and data-driven solutions.
 
 ---
 
@@ -44,14 +43,8 @@ Hello! My name is Jianan Dingqian, a recent Master of Science graduate in Learni
 
 ## Resume
 
-*(You can embed your resume or provide a downloadable link)*
+[View my resume](Resume(2023).pdf)
 
----
-
-## Online Presence
-
-**LinkedIn:** [Profile Link](www.linkedin.com/in/jianan-dingqian)  
-**GitHub:** [Profile Link](#) *(https://github.com/Jen971030/portfolio)*  
 
 ---
 
