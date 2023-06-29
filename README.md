@@ -31,12 +31,13 @@ Throughout my portfolio, you'll find the projects I've worked on that exemplify 
 **Goal:** To analyze data on student performance, family background, and higher education aspirations  
 **Methodology:** Using EDM (Educational Data Mining), I applied logistic regression models and F-tests  
 **Findings:** Assessed the relationship between family background and students' desire for higher education and proposed actionable measures to improve educational outcomes for students from diverse backgrounds  
+**Code Repository:** *(https://github.com/Jen971030/HUDK4050/tree/main/EDM)*
 
 ### 2. Emotion Recognition Training Device
 **Goal:** To create a Python-based game for children with autism to recognize real-time facial expressions  
 **Methodology:** Used a Raspberry Pi to run the game, wirelessly connected a camera for real-time photo capture, and utilized TensorFlow and Microsoft Face API for facial expression analysis  
 **Findings:** Successfully developed a tool that can help children with autism understand and identify different emotions  
-**Code Repository:** [GitHub Repository](#) *(https://github.com/neuenablingengineering/FacialRecognition)*
+**Code Repository:** *(https://github.com/neuenablingengineering/FacialRecognition)*
 
 ### 3. VGA Display Controller
 **Goal:** To design a high-resolution, high frame rate video output FPGA-based VGA display  
