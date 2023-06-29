@@ -34,7 +34,7 @@ Throughout my portfolio, you'll find the projects I've worked on that exemplify 
 **Code Repository:** *(https://github.com/Jen971030/HUDK4050/tree/main/EDM)*
 
 ### 2. Firmware Development for AC Power Outlet Control and Testing
-**Goal:** To develop a firmware solution for controlling and testing AC power outlets
+**Goal:** To develop a firmware solution for controlling and testing AC power outlets  
 **Methodology:** Worked on embedded system firmware development, involving the implementation of multi-threaded task scheduling and error recovery. This firmware was specifically designed for AC power outlets. I also closely collaborated with the hardware team for debugging and optimizing systems. To ensure the integrity and reliability of our solution, comprehensive system testing and product validation were conducted using test suites I developed in C and C#.
 
 ### 3. Emotion Recognition Training Device
