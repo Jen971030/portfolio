@@ -29,17 +29,21 @@ Throughout my portfolio, you'll find the projects I've worked on that exemplify 
 
 ### 1. EDM Analysis: Academic Performance and Family Background
 **Goal:** To analyze data on student performance, family background, and higher education aspirations  
-**Methodology:** Using EDM (Educational Data Mining), I applied logistic regression models and F-tests  
+**Methodology:** Using EDM (Educational Data Mining), I applied logistic regression models F-tests, and K-mean clustering
 **Findings:** Assessed the relationship between family background and students' desire for higher education and proposed actionable measures to improve educational outcomes for students from diverse backgrounds  
 **Code Repository:** *(https://github.com/Jen971030/HUDK4050/tree/main/EDM)*
 
-### 2. Emotion Recognition Training Device
+### 2. Firmware Development for AC Power Outlet Control and Testing
+**Goal:** To develop a firmware solution for controlling and testing AC power outlets
+**Methodology:** Worked on embedded system firmware development, involving the implementation of multi-threaded task scheduling and error recovery. This firmware was specifically designed for AC power outlets. I also closely collaborated with the hardware team for debugging and optimizing systems. To ensure the integrity and reliability of our solution, comprehensive system testing and product validation were conducted using test suites I developed in C and C#.
+
+### 3. Emotion Recognition Training Device
 **Goal:** To create a Python-based game for children with autism to recognize real-time facial expressions  
 **Methodology:** Used a Raspberry Pi to run the game, wirelessly connected a camera for real-time photo capture, and utilized TensorFlow and Microsoft Face API for facial expression analysis  
 **Findings:** Successfully developed a tool that can help children with autism understand and identify different emotions  
 **Code Repository:** *(https://github.com/neuenablingengineering/FacialRecognition)*
 
-### 3. VGA Display Controller
+### 4. VGA Display Controller
 **Goal:** To design a high-resolution, high frame rate video output FPGA-based VGA display  
 **Methodology:** Implemented custom graphical interfaces and image processing algorithms in Verilog assembly language  
 **Findings:** Successfully created a VGA display controller with high quality video output  
