@@ -43,11 +43,6 @@ Throughout my portfolio, you'll find the projects I've worked on that exemplify 
 **Findings:** Successfully developed a tool that can help children with autism understand and identify different emotions  
 **Code Repository:** *(https://github.com/neuenablingengineering/FacialRecognition)*
 
-### 4. VGA Display Controller
-**Goal:** To design a high-resolution, high frame rate video output FPGA-based VGA display  
-**Methodology:** Implemented custom graphical interfaces and image processing algorithms in Verilog assembly language  
-**Findings:** Successfully created a VGA display controller with high quality video output  
-
 ---
 
 ## Resume
