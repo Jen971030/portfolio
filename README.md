@@ -10,7 +10,11 @@
 
 ## About Me
 
-Hello! My name is Jianan Dingqian, a recent Master of Science graduate in Learning Analytics from Teachers College, Columbia University. My expertise lies in educational data analysis and firmware engineering, where I've gained practical experience during my internships in both China and the United States. Fluent in English and Mandarin, I bring my strong multicultural understanding to team collaborations and data-driven solutions.
+Hello! My name is Jianan Dingqian, a recent Master of Science graduate in Learning Analytics from Teachers College, Columbia University. Before this, I earned my Bachelor of Science in Electrical and Electronic Engineering from Northeastern University. Over the course of my academic journey and professional experience in the U.S. and China, I've developed a strong expertise in data analysis and firmware engineering.
+
+My career path has allowed me to apply my knowledge in practical contexts, enriching my understanding of data-focused solutions and cross-disciplinary collaboration. As a bilingual professional in English and Mandarin, I bring my multicultural acumen to team dynamics, fostering an inclusive and creative problem-solving environment.
+
+Throughout my portfolio, you'll find the projects I've worked on that exemplify my skills, my approach to problem-solving, and my passion for leveraging data analytics to drive decisions and innovations.
 
 ---
 
